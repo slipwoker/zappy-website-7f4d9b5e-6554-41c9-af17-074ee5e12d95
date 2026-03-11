@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מוצרים דיגיטליים להתפתחות אישית שישנו את חייך. קורסים, כלים ומשאבים מעשיים לצמיחה פנימית ואיזון עבודה-חיים. התחילי את המסע שלך היום!
+
+### אודות
+https://example.com/about
+ענבל יעקבי מלווה נשים במסע התפתחות אישית עמוק ומשמעותי. גלי את הסיפור, הערכים והגישה הייחודית שמניעה את האור שבך לשנות חיים.
+
+### משאבים
+https://example.com/resources
+ספריית משאבים עשירה לצמיחה אישית: מדריכים, תרגילים, מאמרים וכלים דיגיטליים שיסייעו לך להגשים את הפוטנציאל שלך. התחילי עכשיו בחינם!
+
+### צור קשר
+https://example.com/contact
+מוכנה לשינוי אמיתי? צרי קשר עם ענבל יעקבי לייעוץ אישי, שאלות על המוצרים הדיגיטליים או הצטרפות לקהילת הנשים שמשנות את חייהן. נשמח ללוות אותך!
+
+### Products
+https://example.com/products
+המוצרים שלנו - האור שבך - ענבל יעקבי
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - האור שבך - ענבל יעקבי
+
+### Category
+https://example.com/category/:slug
+מוצרים - האור שבך - ענבל יעקבי
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
